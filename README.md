@@ -191,6 +191,8 @@ p.note { display: none; }
 
 <h2><span class="yellow">左は加波山、右は筑波山！</span></h2>
 <a href="20241118_027.JPG" target="_blank"><img src="20241118_027.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">茨城との県境の山々！</span></h2>
 <a href="20241118_028.JPG" target="_blank"><img src="20241118_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_029.JPG" target="_blank"><img src="20241118_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_030.JPG" target="_blank"><img src="20241118_030.JPG" alt="サンプル画像" width="900" /></a>
@@ -201,19 +203,7 @@ p.note { display: none; }
 
 <br><br><br>
 
-<h2><span class="yellow">動画です。<br>1、２本目はLINE共有動画、<br>３、４本目はGoProで撮ったAppleLineのほぼ全域走行動画！</span></h2>
 
-
-
-<br><br><br>
-
-<h2><span class="yellow">佐久間さんから、全走行ルートが共有されました<br>（地図のクリックでGoogleMapsに飛びます）！</span></h2>
-
-
-<br><br><br>
-<h2><span class="yellow">ツーリングの雰囲気が良くでている区間の動画です。<br>道の駅「みわ」から、アップルラインに至る区間<br>最初の動画、３本目の直前までのところ。<br>上記地図の２番目のAから３番目のAの中間までになります！</span></h2>
-
-<h2><span class="yellow">バイク用ナビの情報！</span></h2>
 
 
 
