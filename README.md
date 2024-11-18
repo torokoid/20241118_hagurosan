@@ -188,6 +188,8 @@ p.note { display: none; }
 <h2><span class="yellow">先ほどの展望台からの眺めです！</span></h2>
 <a href="20241118_025.JPG" target="_blank"><img src="20241118_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_026.JPG" target="_blank"><img src="20241118_026.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">左は加波山、右は筑波山！</span></h2>
 <a href="20241118_027.JPG" target="_blank"><img src="20241118_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_028.JPG" target="_blank"><img src="20241118_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_029.JPG" target="_blank"><img src="20241118_029.JPG" alt="サンプル画像" width="900" /></a>
