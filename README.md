@@ -138,8 +138,8 @@ p.note { display: none; }
 <h2><span class="yellow">ここから５分ほど登って羽黒山神社に向かいます！</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OgVWspfv_oQ?si=y0ZVfd6P76s_QB2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h2><span class="yellow">羽黒山神社に到着！</span></h2>
-<a href="20241118_003.JPG" target="_blank"><img src="20241118_003.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">羽黒山神社に到着！<br>鳥居のクリックでGoogleMapsに飛びます</span></h2>
+<a href="https://www.google.com/maps/place/羽黒山神社/@36.7054453,139.8673707,13.9z/data=!4m6!3m5!1s0x601f7aee0ed868cd:0xcb559abf755ffec8!8m2!3d36.7084835!4d139.8807709!16s%2Fg%2F1vxz9qnp!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241118_003.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">羽黒山と羽黒山神社の由来！</span></h2>
 <a href="20241118_004.JPG" target="_blank"><img src="20241118_004.JPG" alt="サンプル画像" width="900" /></a>
