@@ -116,7 +116,7 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="QR_bike.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_2024Nov18.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
@@ -140,33 +140,55 @@ p.note { display: none; }
 
 <h2><span class="yellow">羽黒山神社に到着！</span></h2>
 <a href="20241118_003.JPG" target="_blank"><img src="20241118_003.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">羽黒山と羽黒山神社の由来！</span></h2>
 <a href="20241118_004.JPG" target="_blank"><img src="20241118_004.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">鳥居を潜って、長い階段を登ります！</span></h2>
 <a href="20241118_005.JPG" target="_blank"><img src="20241118_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_006.JPG" target="_blank"><img src="20241118_006.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">やっとゴールが見えました！</span></h2>
 <a href="20241118_007.JPG" target="_blank"><img src="20241118_007.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">実は車でも上がれますが、健常者は車道が使えません！</span></h2>
 <a href="20241118_008.JPG" target="_blank"><img src="20241118_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_009.JPG" target="_blank"><img src="20241118_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_022.JPG" target="_blank"><img src="20241118_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_010.JPG" target="_blank"><img src="20241118_010.JPG" alt="サンプル画像" width="900" /></a>
+<!--
 <a href="20241118_011.JPG" target="_blank"><img src="20241118_011.JPG" alt="サンプル画像" width="900" /></a>
+-->
 <a href="20241118_012.JPG" target="_blank"><img src="20241118_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_013.JPG" target="_blank"><img src="20241118_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_014.JPG" target="_blank"><img src="20241118_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_015.JPG" target="_blank"><img src="20241118_015.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241118_016.JPG" target="_blank"><img src="20241118_016.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241118_017.JPG" target="_blank"><img src="20241118_017.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241118_018.JPG" target="_blank"><img src="20241118_018.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241118_019.JPG" target="_blank"><img src="20241118_019.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241118_020.JPG" target="_blank"><img src="20241118_020.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241118_021.JPG" target="_blank"><img src="20241118_021.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241118_022.JPG" target="_blank"><img src="20241118_022.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">令和７年の運勢！</span></h2>
 <a href="20241118_023.JPG" target="_blank"><img src="20241118_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_024.JPG" target="_blank"><img src="20241118_024.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お参りも済まし、鐘もついたので、来た道を戻ります！</span></h2>
+<a href="20241118_016.JPG" target="_blank"><img src="20241118_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_017.JPG" target="_blank"><img src="20241118_017.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">鳥居を出た正面は、関東平野を見渡せる展望台ですが、ここからの眺めは後ほど！</span></h2>
+<a href="20241118_018.JPG" target="_blank"><img src="20241118_018.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">山頂のお蕎麦屋さんで、お昼をいただきます！</span></h2>
+<a href="20241118_019.JPG" target="_blank"><img src="20241118_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_020.JPG" target="_blank"><img src="20241118_020.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">かき揚げそばの大盛りをいただきました。¥1,000-！</span></h2>
+<a href="20241118_021.JPG" target="_blank"><img src="20241118_021.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">先ほどの展望台からの眺めです！</span></h2>
 <a href="20241118_025.JPG" target="_blank"><img src="20241118_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_026.JPG" target="_blank"><img src="20241118_026.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_027.JPG" target="_blank"><img src="20241118_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_028.JPG" target="_blank"><img src="20241118_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_029.JPG" target="_blank"><img src="20241118_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_030.JPG" target="_blank"><img src="20241118_030.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">ちょうど空気も澄んできて、地平線上にスカイツリーなどが見えました！</span></h2>
 <a href="20241118_031.JPG" target="_blank"><img src="20241118_031.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_032.JPG" target="_blank"><img src="20241118_032.JPG" alt="サンプル画像" width="900" /></a>
 
