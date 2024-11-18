@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20241103_Ibaraki_bike/20241103_000.png) center/cover no-repeat;
+background:url(https://torokoid.github.io/20241118_hagurosan/20241118_003.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -132,7 +132,38 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
 <h2><span class="yellow">安住神社に集合して、ツーリング、スタート！</span></h2>
-
+<a href="20241118_001.JPG" target="_blank"><img src="20241118_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_002.JPG" target="_blank"><img src="20241118_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_003.JPG" target="_blank"><img src="20241118_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_004.JPG" target="_blank"><img src="20241118_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_005.JPG" target="_blank"><img src="20241118_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_006.JPG" target="_blank"><img src="20241118_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_007.JPG" target="_blank"><img src="20241118_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_008.JPG" target="_blank"><img src="20241118_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_009.JPG" target="_blank"><img src="20241118_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_010.JPG" target="_blank"><img src="20241118_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_011.JPG" target="_blank"><img src="20241118_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_012.JPG" target="_blank"><img src="20241118_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_013.JPG" target="_blank"><img src="20241118_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_014.JPG" target="_blank"><img src="20241118_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_015.JPG" target="_blank"><img src="20241118_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_016.JPG" target="_blank"><img src="20241118_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_017.JPG" target="_blank"><img src="20241118_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_018.JPG" target="_blank"><img src="20241118_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_019.JPG" target="_blank"><img src="20241118_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_020.JPG" target="_blank"><img src="20241118_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_021.JPG" target="_blank"><img src="20241118_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_022.JPG" target="_blank"><img src="20241118_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_023.JPG" target="_blank"><img src="20241118_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_024.JPG" target="_blank"><img src="20241118_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_025.JPG" target="_blank"><img src="20241118_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_026.JPG" target="_blank"><img src="20241118_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_027.JPG" target="_blank"><img src="20241118_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_028.JPG" target="_blank"><img src="20241118_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_029.JPG" target="_blank"><img src="20241118_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_030.JPG" target="_blank"><img src="20241118_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_031.JPG" target="_blank"><img src="20241118_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241118_032.JPG" target="_blank"><img src="20241118_032.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br>
 
