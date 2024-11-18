@@ -131,9 +131,14 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">安住神社に集合して、ツーリング、スタート！</span></h2>
+<h2><span class="yellow">登山口直前で見つけた、銀杏が綺麗！</span></h2>
 <a href="20241118_001.JPG" target="_blank"><img src="20241118_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_002.JPG" target="_blank"><img src="20241118_002.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ここから５分ほど登って羽黒山神社に向かいます！</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OgVWspfv_oQ?si=y0ZVfd6P76s_QB2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h2><span class="yellow">羽黒山神社に到着！</span></h2>
 <a href="20241118_003.JPG" target="_blank"><img src="20241118_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_004.JPG" target="_blank"><img src="20241118_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_005.JPG" target="_blank"><img src="20241118_005.JPG" alt="サンプル画像" width="900" /></a>
