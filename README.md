@@ -144,7 +144,7 @@ p.note { display: none; }
 <h2><span class="yellow">羽黒山と羽黒山神社の由来！</span></h2>
 <a href="20241118_004.JPG" target="_blank"><img src="20241118_004.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">鳥居を潜って、長い階段を登ります！</span></h2>
+<h2><span class="yellow">鳥居をくぐって、長い階段を登ります！</span></h2>
 <a href="20241118_005.JPG" target="_blank"><img src="20241118_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_006.JPG" target="_blank"><img src="20241118_006.JPG" alt="サンプル画像" width="900" /></a>
 
@@ -190,6 +190,7 @@ p.note { display: none; }
 <a href="20241118_030.JPG" target="_blank"><img src="20241118_030.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">ちょうど空気も澄んできて、地平線上にスカイツリーなどが見えました！</span></h2>
 <a href="20241118_031.JPG" target="_blank"><img src="20241118_031.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">小さすぎるので画像を拡大！</span></h2>
 <a href="20241118_032.JPG" target="_blank"><img src="20241118_032.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br>
