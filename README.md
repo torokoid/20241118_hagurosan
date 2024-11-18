@@ -154,7 +154,11 @@ p.note { display: none; }
 <h2><span class="yellow">実は車でも上がれますが、健常者は車道が使えません！</span></h2>
 <a href="20241118_008.JPG" target="_blank"><img src="20241118_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241118_009.JPG" target="_blank"><img src="20241118_009.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">神社のお浄めの水は、山頂からの湧き水です！</span></h2>
 <a href="20241118_022.JPG" target="_blank"><img src="20241118_022.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">さっきの車で孫に連れられてきた老夫婦のおばあちゃんと一緒にお参りでした！</span></h2>
 <a href="20241118_010.JPG" target="_blank"><img src="20241118_010.JPG" alt="サンプル画像" width="900" /></a>
 <!--
 <a href="20241118_011.JPG" target="_blank"><img src="20241118_011.JPG" alt="サンプル画像" width="900" /></a>
